@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="180" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#bfbfbf" height="82" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="173.000004" x="3.500001" y="4.5"/>
+  <rect fill="#bfbfbf" height="0" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="3" x="292.5" y="191.5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="88.5" xml:space="preserve" y="64.5">AMGDRACO</text>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="88.007813" xml:space="preserve" y="29.5">AMG</text>
+  <line fill="none" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="15.5" x2="157.500002" y1="35.5" y2="35.5"/>
+  <polygon cx="273.5" cy="156.5" edge="0" fill="#bfbfbf" id="svg_10" orient="x" shape="regularPoly" sides="5" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="275.5" cy="161.5" edge="14.26729" fill="#ffaaaa" id="svg_11" orient="x" points="37.136474609375,19.500030517578125 27.9864501953125,33.542510986328125 13.181396484375,28.17877197265625 13.181396484375,10.8212890625 27.9864501953125,5.457550048828125 37.136474609375,19.500030517578125 " shape="regularPoly" sides="5" stroke-width="0" strokeWidth="0" strokecolor="none" transform="rotate(-90 25.1589 19.5)"/>
+ </g>
+</svg>

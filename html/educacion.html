@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Educacion</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="autor" content="Alexander Avila M.">
+    <meta name=descripcion content="Hoja de vida">
+</head>
+<body>
+<header>
+    <img src="../imagenes/Milogop.svg" alt="Logo Principal" title="Logo Principal" width="200px" height="200px"/>
+    <h1>Hoja de Vida</h1>
+    <h2>Datos personales:</h2>
+    <h3>Nombres: Alexander</h3>
+    <h3>Apellidos: Avila Manjarres</h3>
+    <h3>Fecha Nacimineto: 20-01-1980</h3>
+    <h3>Lugar: San Bernar del viento (Cordoba)</h3>
+</header>
+<hr>
+<nav>
+    <a href="educacion.html" target="_blank">Educacación</a>|<a href="experiencia.html" target="_blank">Experiencia</a>
+</nav>
+    <hr>
+<main>
+    <section>
+        <h2><em>Educación</em></h2>
+        <table border="1" cellpadding="5" cellspacing="0px">
+            <thead>
+                <tr>
+                    <th>Año</th>
+                    <th>Institucion</th>
+                    <th>Lugar</th>
+                    <th>Culmino</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2006</td>
+                    <td>Diplomado Sena</td>
+                    <td>Cartagena de Indias</td>
+                    <td>si</td>
+                </tr>
+                <tr>
+                    <td>2007</td>
+                    <td>Fundacion Universitaria Tecnoligico Comfenalco</td>
+                    <td>Cartagena de Indias</td>
+                    <td>si</td>
+                </tr>
+                <tr>
+                    <td>2010</td>
+                    <td>Corporacion Educativa Alexander Von Humboldt</td>
+                    <td>Bogota</td>
+                    <td>si</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Agregar Estudios</h3>
+        <form autocomplete="on" name="captaciondatos" style="width: 300px" background="gray">
+            <label for="anios">Años:</label>
+            <select name="anios" id="cmbAnios" autofocus>
+                <option value="0" selected="selected">Seleccionar:</option>
+                <option value="1">2019</option>
+                <option value="2">2018</option>
+                <option value="3">2017</option>
+                <option value="3">2016</option>
+                <option value="3">2015</option>
+                <option value="3">2014</option>
+                <option value="3">2013</option>
+                <option value="3">2010</option>
+            </select>
+            <p>
+                <label for="institucion">Institución:</label>
+                <input type="text" name="institucion" id="txtInstitucion" placeholder="Ej: universidad de cartagena" size="20px" required>
+            </p>
+            <p>
+                <label for="lugar">Lugar:</label>
+                <br/>
+                <textarea autocomplete="on" id="txtLugar" cols="30" rows="5"></textarea>
+            </p>
+            <p>
+                <input type="submit"  value="Enviar" >
+            </p>
+        </form>
+    </section>
+</main>
+<footer>
+    <h3>Información de Contacto:</h3>
+    <p><strong>Direccion:</strong> Calle 67 c Norte # 1c-89 Este</p>
+    <p><strong>Telefono:</strong> 7812256</p>
+    <p><strong>Movil:</strong> 3143719608</p>
+    <p><strong>Correo:</strong> manjarrita26@yahoo.com</p>
+</footer>
+<hr>
+</body>
+</html>
